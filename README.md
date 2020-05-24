@@ -32,7 +32,7 @@ Vim-eko zuzentzaileak erabiltzen duen *spl* fitxategia, Hunspell-eko *aff* eta *
 git clone https://github.com/gkobeaga/vim-spell-eu
 cd vim-spell-eu
 vim
-:silent mkspell eu eu_EU
+:silent mkspell eu eu_ES
 ```
 
 Hunspell-eko fitxategiak, *aff* eta *dic*, [Xuxen](http://xuxen.eus/static/hunspell/xuxen_5.1_hunspell.zip) proiektutik hartuta daude.
